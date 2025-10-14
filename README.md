@@ -1,10 +1,7 @@
-```markdown
 # 🏏 Cricket Match Win Prediction
 
 ## 🎯 Objective
 Predict the **winning team** of a cricket match *before it begins* using pre-match features such as teams, toss result, toss decision, venue, and season.
-
----
 
 ## ⚙️ Project Pipeline
 1. Data collection & cleaning  
@@ -15,10 +12,7 @@ Predict the **winning team** of a cricket match *before it begins* using pre-mat
 6. Evaluation (Accuracy, Confusion Matrix, SHAP)  
 7. Save model & make predictions
 
----
-
 ## 📁 Project Structure
-```
 
 data/            # Raw and processed data
 src/             # Scripts (preprocess, train, predict)
@@ -26,9 +20,6 @@ out/             # Trained model
 requirements.txt
 README.md
 
-````
-
----
 
 ## 🚀 How to Run
 ### 1. Install dependencies
