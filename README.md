@@ -1,9 +1,3 @@
-Got it 👍 — let’s make it **short, clean, and resume/project-report–ready**, while keeping only what’s **essential** to understand and run the project.
-
-Here’s a **compact version** you can copy-paste directly into your `README.md`:
-
----
-
 ```markdown
 # 🏏 Cricket Match Win Prediction
 
