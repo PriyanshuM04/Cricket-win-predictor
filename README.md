@@ -14,11 +14,11 @@ Predict the **winning team** of a cricket match *before it begins* using pre-mat
 
 ## 📁 Project Structure
 
-data/            # Raw and processed data
-src/             # Scripts (preprocess, train, predict)
-out/             # Trained model
-requirements.txt
-README.md
+data/            # Raw and processed data  
+src/             # Scripts (preprocess, train, predict)  
+out/             # Trained model  
+requirements.txt  
+README.md  
 
 
 ## 🚀 How to Run
@@ -71,5 +71,3 @@ Predicted Winner: CSK
 
 **Priyanshu Mallick**
 [GitHub Profile](https://github.com/PriyanshuM04)
-
-```
